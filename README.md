@@ -1,3 +1,3 @@
 # github-contribution-demo
 
-This project demostrates GitHub contribution workflow.
+This project demonstrates GitHub contribution workflow.
